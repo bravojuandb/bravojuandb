@@ -1,4 +1,4 @@
-## Welcome – I’m Juan D. Bravo
+## Welcome – I’m Juan 
 
 I’m a **self-taught junior Data Engineer**, passionate about learning new skills and driven by the desire to build meaningful systems.
 
@@ -8,7 +8,7 @@ I’m a career changer in my mid-thirties. I currently work as an Operations Spe
 
 Before this, I spent nine years in a monastery, where I studied Philosophy, Theology, Latin, and Greek. That background taught me discipline, deep focus, and the value of order — traits I now bring into the world of data. You may find scattered traces of that journey across my work.
 
-This quote illustrates my path:
+The following quote illustrates my path:
 
 > **"Omnia disce, videbis postea nihil esse superfluum."**  
 > *"Learn everything; you will see later that nothing is superfluous."*  
