@@ -1,15 +1,15 @@
-## Welcome – I’m Juan 
+I’m an aspiring Data Engineer, learning hands-on while working full-time.
+Since January 2025, I’ve been committed to learning by doing — building projects, writing code, and studying the fundamentals through DataCamp courses.
 
-I’m a **self-taught junior Data Engineer**, passionate about learning new skills and driven by the desire to build meaningful systems.
+In April, I began pushing my projects to GitHub. I’m currently working on insightful ETL pipelines, alongside smaller repositories where I practice Python, PostgreSQL, and Docker.
 
-Since *January 2025, I’ve been hands on learning Data Engineering while working full-time. In April, I began pushing projects to GitHub — steadily turning knowledge into practice.
+I bring a unique path. For nine years, I lived in a monastery, immersed in Philosophy, Theology, Classical languages, deep reflection, and prayer. That formation taught me discipline, clarity of thought, and a love for order — strengths I now bring into the world of data.
 
-I’m a career changer in my mid-thirties. I currently work as an Operations Specialist in a wholesale industrial supply store, where I’ve learned the behind-the-scenes impact of business systems.
+Today, I work as a Purchases Operations Specialist in a wholesale-retail industrial supply company. There, I’ve seen firsthand how the absence of clean, accessible data slows down — and sometimes blocks — key decisions. That sparked my transition into Data Engineering: to create systems that make data more available and truly useful for business.
 
-Before this, I spent nine years in a monastery, where I studied Philosophy, Theology, Latin, and Greek. That background taught me discipline, deep focus, and the value of order — traits I now bring into the world of data. You may find scattered traces of that journey across my work.
+One quote has guided me through this journey:
 
-The following quote illustrates my path:
+"Omnia disce, videbis postea nihil esse superfluum."
+"Learn everything; you will see later that nothing is superfluous."
+— Hugh of Saint Victor, Didascalicon III.4
 
-> **"Omnia disce, videbis postea nihil esse superfluum."**  
-> *"Learn everything; you will see later that nothing is superfluous."*  
-> — *Hugh of Saint Victor, Didascalicon III.4*
