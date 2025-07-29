@@ -1,15 +1,13 @@
-I’m an aspiring Data Engineer, learning hands-on while working full-time.
-Since January 2025, I’ve been committed to learning by doing — building projects, writing code, and studying the fundamentals through DataCamp courses.
+👋 Hello, I’m Juan.
 
-In April, I began pushing my projects to GitHub. I’m currently working on insightful ETL pipelines, alongside smaller repositories where I practice Python, PostgreSQL, and Docker.
+I’m transitioning into Data Engineering — currently building real-world data pipelines and sharpening my Python and SQL skills.
 
-I bring a unique path. For nine years, I lived in a monastery, immersed in Philosophy, Theology, Classical languages, deep reflection, and prayer. That formation taught me discipline, clarity of thought, and a love for order — strengths I now bring into the world of data.
+My main project is the **ClassicBook ETL Pipeline**, where I extract, clean, and load structured text data into PostgreSQL. I’m also building daily Python drills and exploring workflow automation with Docker and GitHub Actions.
 
-Today, I work as a Purchases Operations Specialist in a wholesale-retail industrial supply company. There, I’ve seen firsthand how the absence of clean, accessible data slows down — and sometimes blocks — key decisions. That sparked my transition into Data Engineering: to create systems that make data more available and truly useful for business.
+Next, I’m focusing on **cloud migration systems**, aiming to specialize in scalable, production-ready pipelines.
 
-One quote has guided me through this journey:
+Based in Navarre, Spain (UTC+2) | Open to remote opportunities
 
-"Omnia disce, videbis postea nihil esse superfluum."
-"Learn everything; you will see later that nothing is superfluous."
-— Hugh of Saint Victor, Didascalicon III.4
+Python • SQL • ETL • PostgreSQL • Docker • GitHub Actions  
 
+Open to work — explore my pinned projects below!
