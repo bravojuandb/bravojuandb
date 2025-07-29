@@ -6,7 +6,7 @@ My main project is the **ClassicBook ETL Pipeline**, where I extract, clean, and
 
 Next, I’m focusing on **cloud migration systems**, aiming to specialize in scalable, production-ready pipelines.
 
-Based in Navarre, Spain (UTC+2) | Open to remote opportunities
+Based in Navarre, Spain | Open to remote opportunities
 
 Python • SQL • ETL • PostgreSQL • Docker • GitHub Actions  
 
