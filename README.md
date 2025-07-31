@@ -6,7 +6,7 @@ My main project is the [Classic Book ETL Pipeline](https://github.com/juan-dbrav
 
 ### Ongoing Learning
 
-I'm actively building core skills through [DataCamp’s](https://www.datacamp.com/portfolio/bravojuandb) structured tracks, focusing on:
+I'm actively building core skills through [DataCamp’s](https://www.datacamp.com/portfolio/bravojuandb?view=true) structured tracks, focusing on:
 
 - Python & SQL fluency
 - ETL pipelines
