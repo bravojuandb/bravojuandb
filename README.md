@@ -8,18 +8,15 @@ Next, I’m focusing on **cloud migration systems**, aiming to specialize in sca
 
 ### Ongoing Learning
 
-I'm actively building core skills through DataCamp’s structured tracks, focusing on:
+I'm actively building core skills through [DataCamp’s](https://www.datacamp.com/portfolio/bravojuandb) structured tracks, focusing on:
 
 - Python & SQL fluency
 - ETL pipelines
 - Cloud foundations (AWS)
 - Workflow automation
-Here's my public profile:
-
-**[My DataCamp Profile](https://www.datacamp.com/portfolio/bravojuandb)**  
 
 ### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juandbravo/)
 
-📍 Based in Navarre, Spain | 🌐 Open to remote opportunities  
+📍 Based in Navarra, Spain | 🌐 Open to remote opportunities  
