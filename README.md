@@ -2,7 +2,9 @@
 
 I’m transitioning into Data Engineering — currently building real-world data pipelines and strengthening my Python and SQL skills, while also exploring AWS S3.
 
-My main project is the [Classic Book ETL Pipeline](https://github.com/juan-dbravo/classicbook-etl-pipeline)  , where I extract, clean, and load structured text data into PostgreSQL. I’m also practicing daily Python drills and building workflow automation with Docker and GitHub Actions.
+My main project is the [Classic Book ETL Pipeline](https://github.com/bravojuandb/classicbook-etl-pipeline), where I extract, clean, and load structured text data into PostgreSQL. 
+
+I’m also practicing daily [Python drills](https://github.com/bravojuandb/python-daily-drills) and building workflow automation with Docker and GitHub Actions.
 
 ### Ongoing Learning
 
