@@ -1,19 +1,16 @@
 ## Hello, I’m Juan.
 
-I’m transitioning into Data Engineering — currently building real-world data pipelines and strengthening my Python and SQL skills, while also exploring AWS S3.
+I build data-processing artifacts in Python and SQL, with a focus on designing and maintaining reliable data pipelines.
 
-My main project is the [Classic Book ETL Pipeline](https://github.com/bravojuandb/classicbook-etl-pipeline), where I extract, clean, and load structured text data into PostgreSQL. 
+### Ongoing Artifacts
 
-I’m also practicing daily [Python drills](https://github.com/bravojuandb/python-daily-drills) and building workflow automation with Docker and GitHub Actions.
-
-### Ongoing Learning
-
-I'm actively building core skills through [DataCamp’s](https://www.datacamp.com/portfolio/bravojuandb?view=true) structured tracks, focusing on:
-
-- Python & SQL fluency
-- ETL pipelines
-- Cloud foundations (AWS)
-- Workflow automation
+- Python & SQL (deliberate skill development):
+   - [python-daily-drills](https://github.com/bravojuandb/python-daily-drills)
+   - [sql-power-drills](https://github.com/bravojuandb/sql-power-drills)
+- Cleaning messy data with pandas:
+   - [navarra-economic-establishments-cleaning](https://github.com/bravojuandb/navarra-economic-establishments-cleaning)
+- ETL + Basic cloud usage (AWS S3):
+   - [retail-sales-pipeline](https://github.com/bravojuandb/retail-sales-pipeline)
 
 ### Connect with Me
 
