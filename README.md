@@ -1,13 +1,13 @@
 ## Hello, I’m Juan.
 
-I build **data pipelines and data-processing artifacts** in Python and SQL, with a focus on deterministic behavior, explicit data contracts, and analytics-ready outputs.
+I build **data pipelines and data-processing artifacts** in Python and SQL, with an enphasis on rule-based behavior, explicit data contracts, and analytics-ready outputs.
 
 ## Shipped Pipelines
 
-- **Navarra Economic Establishments – Batch ETL**
-  - Deterministic batch pipeline that cleans and validates public administrative data
-  - Enforces schema, null semantics, and identifier handling
-  - Outputs analytics-ready Parquet  
+- **Navarra Economic Establishments – Batch Data Pipeline**
+  - Rule driven batch pipeline for cleaning and validating public administrative data
+  - Explicit handling of schema, null semantics, and identifier fields
+  - Produces analytics-ready Parquet output  
   → https://github.com/bravojuandb/navarra-data-batch-pipeline
 
 ## Ongoing Work
