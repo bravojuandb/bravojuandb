@@ -1,19 +1,26 @@
 ## Hello, I’m Juan.
 
-I build data-processing artifacts in Python and SQL, with a focus on designing and maintaining reliable data pipelines.
+I build **data pipelines and data-processing artifacts** in Python and SQL, with a focus on deterministic behavior, explicit data contracts, and analytics-ready outputs.
 
-### Ongoing Artifacts
+## Shipped Pipelines
 
-- Python & SQL (deliberate skill development):
-   - [python-daily-drills](https://github.com/bravojuandb/python-daily-drills)
-   - [sql-power-drills](https://github.com/bravojuandb/sql-power-drills)
-- Cleaning messy data with pandas:
-   - [navarra-economic-establishments-cleaning](https://github.com/bravojuandb/navarra-economic-establishments-cleaning)
-- ETL + Basic cloud usage (AWS S3):
-   - [retail-sales-pipeline](https://github.com/bravojuandb/retail-sales-pipeline)
+- **Navarra Economic Establishments – Batch ETL**
+  - Deterministic batch pipeline that cleans and validates public administrative data
+  - Enforces schema, null semantics, and identifier handling
+  - Outputs analytics-ready Parquet  
+  → https://github.com/bravojuandb/navarra-data-batch-pipeline
 
-### Connect with Me
+## Ongoing Work
+
+- **Python & SQL (deliberate skill development)**
+  - https://github.com/bravojuandb/python-daily-drills
+  - https://github.com/bravojuandb/sql-power-drills
+
+- **ETL + Cloud Basics (AWS S3)**
+  - https://github.com/bravojuandb/retail-sales-pipeline
+
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juandbravo/)
 
-📍 Based in Navarra, Spain | 🌐 Open to remote opportunities  
+📍 Navarra, Spain · 🌍 Open to remote opportunities
