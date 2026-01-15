@@ -16,9 +16,6 @@ I build **data pipelines and data-processing artifacts** in Python and SQL, with
   - https://github.com/bravojuandb/python-daily-drills
   - https://github.com/bravojuandb/sql-power-drills
 
-- **ETL + Cloud Basics (AWS S3)**
-  - https://github.com/bravojuandb/retail-sales-pipeline
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juandbravo/)
