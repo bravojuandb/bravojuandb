@@ -13,7 +13,7 @@ I build **data pipelines** and **data processing systems** with an enphasis on r
 
 - **Ingestion layer for Eurostat Trade Pipeline – Batch Ingestion**
   - Downloads and extracts historical monthly [COMEXT bulk files](https://ec.europa.eu/eurostat/databrowser/bulk?lang=en&selectedTab=fileComext&breadcrumbFilter=COMEXT_DATA%2FPRODUCTS) into a deterministic raw layer
-  - Idempotent re-runs (safe to execute repeatedly without overwrites)
+  - Idempotent re-runs (safe to execute repeatedly without overwrites)  
   → https://github.com/bravojuandb/eurostat-trade-pipeline
   
 - **Navarra Economic Establishments – Batch Data Pipeline**
@@ -26,13 +26,15 @@ I build **data pipelines** and **data processing systems** with an enphasis on r
 ## Ongoing Work
 
 - **Eurostat Trade Pipeline – Batch ETL Pipeline**
-  → https://github.com/bravojuandb/eurostat-trade-pipeline 
+  - https://github.com/bravojuandb/eurostat-trade-pipeline 
 
 - **Python & SQL (deliberate skill development)**
   - https://github.com/bravojuandb/python-daily-drills
   - https://github.com/bravojuandb/sql-power-drills
 
 ## Connect
+
+📧 [**bravojuandb@protonmail.com**](mailto:bravojuandb@protonmail.com)
 
 <a href="https://www.linkedin.com/in/juandbravo/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
