@@ -1,4 +1,4 @@
-## Hello, I’m Juan (pronounced xwan)
+## [Hello, I’m Juan 🔊](https://www.youtube.com/shorts/tsFCIuk94ws)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
@@ -35,4 +35,4 @@ I build **data pipelines and data processing systems** with an enphasis on rule-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juandbravo/)
 
-📍 Navarra, Spain · 🌍 Open to remote opportunities
+Navarra, Spain · 🌍 Open to remote opportunities
