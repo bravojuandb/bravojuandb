@@ -1,4 +1,4 @@
-## [Hello, I’m Juan 🔊](https://www.youtube.com/shorts/tsFCIuk94ws)
+## [Hello, I’m Juan → 🔊](https://www.youtube.com/shorts/tsFCIuk94ws)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
@@ -7,13 +7,14 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Batch ETL](https://img.shields.io/badge/Batch%20ETL-Pipeline-blue)
 
-I build **data pipelines and data processing systems** with an enphasis on rule-based behavior, explicit data contracts to produce analytics-ready outputs.
+I build **data pipelines** and **data processing systems** with an enphasis on rule-based behavior, explicit data contracts to produce **analytics-ready outputs**.
 
 ## Shipped Pipelines
 
 - **Ingestion layer for Eurostat Trade Pipeline – Batch Ingestion**
   - Downloads and extracts historical monthly [COMEXT bulk files](https://ec.europa.eu/eurostat/databrowser/bulk?lang=en&selectedTab=fileComext&breadcrumbFilter=COMEXT_DATA%2FPRODUCTS) into a deterministic raw layer
   - Idempotent re-runs (safe to execute repeatedly without overwrites)
+  → https://github.com/bravojuandb/eurostat-trade-pipeline
   
 - **Navarra Economic Establishments – Batch Data Pipeline**
   - Rule driven batch pipeline for cleaning and validating public administrative data
@@ -33,6 +34,9 @@ I build **data pipelines and data processing systems** with an enphasis on rule-
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juandbravo/)
+<a href="https://www.linkedin.com/in/juandbravo/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+</a>  
 
-Navarra, Spain · 🌍 Open to remote opportunities
+📍 Navarra, Spain · 🌍 Open to remote opportunities
+
