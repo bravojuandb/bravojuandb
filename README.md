@@ -7,7 +7,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Batch ETL](https://img.shields.io/badge/Batch%20ETL-Pipeline-blue)
 
-I build **data pipelines** and **data processing systems** with an enphasis on rule-based behavior, explicit data contracts to produce **analytics-ready outputs**.
+I build **data pipelines** and **data processing systems** with an enphasis on rule-based behavior and explicit data contracts to produce **analytics-ready outputs**.
 
 ## Shipped Pipelines
 
