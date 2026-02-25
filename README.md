@@ -11,10 +11,11 @@ I build **data pipelines** and **data processing systems** with an emphasis on r
 
 ## Shipped Pipelines
 
-- **Eurostat Trade Pipeline – Batch Ingestion and transformation**
-  - Downloads and extracts historical monthly [COMEXT bulk files](https://ec.europa.eu/eurostat/databrowser/bulk?lang=en&selectedTab=fileComext&breadcrumbFilter=COMEXT_DATA%2FPRODUCTS) into a raw layer
-  - Idempotent re-runs (safe to execute repeatedly without overwrites)
-  - Writes clean silver Parquet file ready for gold layer  
+- **Eurostat Trade Pipeline – Batch Ingestion and Transformation**
+  - Downloads and extracts historical monthly [COMEXT bulk files](https://ec.europa.eu/eurostat/databrowser/bulk?lang=en&selectedTab=fileComext&breadcrumbFilter=COMEXT_DATA%2FPRODUCTS) into an immutable raw layer
+  - Transforms raw `.dat` files into clean silver Parquet via DuckDB SQL
+  - Containerized with Docker Compose (separate ingestion, transform, and pipeline services)
+  - Idempotent re-runs, explicit data contracts, and CI with Ruff + ShellCheck  
   → https://github.com/bravojuandb/eurostat-trade-pipeline
   
 - **Navarra Economic Establishments – Batch Data Pipeline**
