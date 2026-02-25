@@ -14,7 +14,7 @@ I build **data pipelines** and **data processing systems** with an emphasis on r
 - **Eurostat Trade Pipeline – Batch Ingestion and transformation**
   - Downloads and extracts historical monthly [COMEXT bulk files](https://ec.europa.eu/eurostat/databrowser/bulk?lang=en&selectedTab=fileComext&breadcrumbFilter=COMEXT_DATA%2FPRODUCTS) into a raw layer
   - Idempotent re-runs (safe to execute repeatedly without overwrites)
-  - Writes clean silver Parquet file ready for gold layer.
+  - Writes clean silver Parquet file ready for gold layer  
   → https://github.com/bravojuandb/eurostat-trade-pipeline
   
 - **Navarra Economic Establishments – Batch Data Pipeline**
