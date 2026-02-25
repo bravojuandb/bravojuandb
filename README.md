@@ -7,13 +7,14 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Batch ETL](https://img.shields.io/badge/Batch%20ETL-Pipeline-blue)
 
-I build **data pipelines** and **data processing systems** with an enphasis on rule-based behavior and explicit data contracts to produce **analytics-ready outputs**.
+I build **data pipelines** and **data processing systems** with an emphasis on rule-based behavior and explicit data contracts to produce **analytics-ready outputs**.
 
 ## Shipped Pipelines
 
-- **Ingestion layer for Eurostat Trade Pipeline – Batch Ingestion**
-  - Downloads and extracts historical monthly [COMEXT bulk files](https://ec.europa.eu/eurostat/databrowser/bulk?lang=en&selectedTab=fileComext&breadcrumbFilter=COMEXT_DATA%2FPRODUCTS) into a deterministic raw layer
-  - Idempotent re-runs (safe to execute repeatedly without overwrites)  
+- **Eurostat Trade Pipeline – Batch Ingestion and transformation**
+  - Downloads and extracts historical monthly [COMEXT bulk files](https://ec.europa.eu/eurostat/databrowser/bulk?lang=en&selectedTab=fileComext&breadcrumbFilter=COMEXT_DATA%2FPRODUCTS) into a raw layer
+  - Idempotent re-runs (safe to execute repeatedly without overwrites)
+  - Writes clean silver Parquet file ready for gold layer.
   → https://github.com/bravojuandb/eurostat-trade-pipeline
   
 - **Navarra Economic Establishments – Batch Data Pipeline**
@@ -22,15 +23,6 @@ I build **data pipelines** and **data processing systems** with an enphasis on r
   - Produces analytics-ready Parquet output
   - No database load  
   → https://github.com/bravojuandb/navarra-data-batch-pipeline
-
-## Ongoing Work
-
-- **Eurostat Trade Pipeline – Batch ETL Pipeline**
-  - https://github.com/bravojuandb/eurostat-trade-pipeline 
-
-- **Python & SQL (deliberate skill development)**
-  - https://github.com/bravojuandb/python-daily-drills
-  - https://github.com/bravojuandb/sql-power-drills
 
 ## Connect
 
